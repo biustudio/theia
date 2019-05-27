@@ -121,8 +121,7 @@ export namespace GIT_COMMANDS {
         id: 'git-commit-add-sign-off',
         label: 'Add Signed-off-by',
         iconClass: 'fa fa-pencil-square-o',
-        category: 'navigation',
-        props: { ['group']: 'navigation' }
+        category: 'navigation'
     };
     export const COMMIT_AMEND = {
         id: 'git.commit.amend'
@@ -224,8 +223,7 @@ export namespace GIT_COMMANDS {
         id: 'git-refresh',
         label: 'Refresh',
         iconClass: 'fa fa-refresh',
-        category: 'navigation',
-        props: { ['group']: 'navigation' }
+        category: 'navigation'
     };
 }
 
