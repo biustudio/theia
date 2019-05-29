@@ -2,7 +2,7 @@
     "name": "biustudio/theia",
     "description": "This is the light weight version of Symfony Console",
     "keywords": ["biustudio", "nodejs", "ide", "shared hosting upload", "typescript", "theia"],
-    "type": "library",
+    "type": "project",
     "license": "MIT",
     "authors": [
         {
